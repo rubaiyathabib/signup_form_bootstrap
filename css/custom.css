@@ -1,0 +1,47 @@
+img{
+	max-width:100%;
+}
+
+.dark{
+
+background: #24292d;
+}
+
+body{
+	background: #2B3137;
+	color: #fff;
+	
+}
+
+h3{
+	 color: #949494;
+	 font-size: 22px;
+	
+}
+
+.btn{
+	font-size: 17px;
+	font-weight: 500;
+}
+
+p{
+	font-size: 12px;
+}
+
+.signup{
+	font-size: 15px;
+	font-weight: 500;
+}
+
+
+.middle .row{
+	height: 100vh;
+	align-items: center;
+
+}
+
+h1 {
+    font-size: 67px;
+    font-weight: 500;
+    line-height: 1;
+}
